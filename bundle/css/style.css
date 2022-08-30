@@ -1,0 +1,98 @@
+/*---DEFAULT STYLING---*/
+html {
+    scroll-behavior: smooth;
+  }
+/* container */
+section{
+    padding: 60px 0px 60px 0px;
+}
+/*margins*/
+.mt-10 {margin-top: 10px !important;}
+.mt-15 {margin-top: 15px !important;}
+.mt-20 {margin-top: 20px !important;}
+.mt-25 {margin-top: 25px !important;}
+.mt-30 {margin-top: 30px !important;}
+.mt-35 {margin-top: 35px !important;}
+.mt-40 {margin-top: 40px !important;}
+.mt-45 {margin-top: 45px !important;}
+.mt-50 {margin-top: 50px !important;}
+.mt-55 {margin-top: 55px !important;}
+.mt-60 {margin-top: 60px !important;}
+.mt-65 {margin-top: 65px !important;}
+.mt-70 {margin-top: 70px !important;}
+.mt-75 {margin-top: 75px !important;}
+.mt-80 {margin-top: 80px !important;}
+.mt-85 {margin-top: 85px !important;}
+.mt-90 {margin-top: 95px !important;}
+.mt-95 {margin-top: 95px !important;}
+.mt-100 {margin-top: 100px !important;}
+
+.mb-10 {margin-bottom: 10px !important;}
+.mb-15 {margin-bottom: 15px !important;}
+.mb-20 {margin-bottom: 20px !important;}
+.mb-25 {margin-bottom: 25px !important;}
+.mb-30 {margin-bottom: 30px !important;}
+.mb-35 {margin-bottom: 35px !important;}
+.mb-40 {margin-bottom: 40px !important;}
+.mb-45 {margin-bottom: 45px !important;}
+.mb-50 {margin-bottom: 50px !important;}
+.mb-55 {margin-bottom: 55px !important;}
+.mb-60 {margin-bottom: 60px !important;}
+.mb-65 {margin-bottom: 65px !important;}
+.mb-70 {margin-bottom: 70px !important;}
+.mb-75 {margin-bottom: 75px !important;}
+.mb-80 {margin-bottom: 80px !important;}
+.mb-85 {margin-bottom: 85px !important;}
+.mb-90 {margin-bottom: 95px !important;}
+.mb-95 {margin-bottom: 95px !important;}
+.mb-100 {margin-bottom: 100px !important;}
+/*----*/
+.img-center { display: block; margin: auto; max-width: 100%;}
+/* text-styles */
+@font-face {
+  font-family: 'TruenoBd' ;
+  src: url('../font/TruenoBd.otf');
+  font-weight: 700;
+  font-style: normal;
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'TruenoBd' !important;
+  font-weight: bold;
+}
+@font-face {
+  font-family: 'TruenoRg' ;
+  src: url('../font/TruenoRg.otf');
+  font-weight: 700;
+  font-style: normal;
+}
+p {
+  font-family: 'TruenoRg' !important;
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'TruenoLt' ;
+  src: url('../font/TruenoLt.otf');
+  font-weight: 700;
+  font-style: normal;
+}
+p,a,li {
+  font-family: 'TruenoLt' !important;
+  font-weight: normal;
+}
+h1 { font-size: 40px;}
+p{ font-size: 16px;}
+.bold-text { font-weight: bold; }
+.semi-bold-text { font-weight: 600; }
+.normal-text{ font-weight: normal; }
+.light-text {font-weight: lighter;}
+.center-text { text-align: center; }
+.right-text { text-align: right;}
+.left-text { text-align: left; }
+.white-text { color: #fff; }
+.yellow-text { color:#f7c300; }
+.dark-text { color: black; }
+.body-color { color:#b8bccb; }
+.footer-text-color { color: #595960;}
+.main-color {color:#1cf1b4;}
+.sub-color { color: #6699ff;;}
+/* ---- * /
